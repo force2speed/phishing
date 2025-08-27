@@ -1,4 +1,7 @@
-const { url } = require("inspector");
+function getURLsFromHTML(htmlBody,baseURL){
+    const urls=[];
+    return urls;
+}
 
 function normalizeUrl(UrlString){
     const urlObj=new URL(UrlString);
@@ -12,5 +15,6 @@ return hostPath;
 }
 
 module.exports={
-    normalizeUrl
+    normalizeUrl,
+    getURLsFromHTML
 }
