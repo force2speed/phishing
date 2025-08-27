@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/force2speed/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/force2speed/webcrawler/issues"
+  },
+  "homepage": "https://github.com/force2speed/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^30.1.0"
+  }
+}
