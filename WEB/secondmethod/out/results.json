@@ -1,0 +1,807 @@
+[
+  {
+    "input": "https://airtel.in:443",
+    "used_url": "https://airtel.in:443",
+    "status": "success",
+    "file": "airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://airtelgrowth.airtel.in:443",
+    "used_url": "https://airtelgrowth.airtel.in:443",
+    "status": "success",
+    "file": "airtelgrowth_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://assets.airtel.in:443",
+    "used_url": "https://assets.airtel.in:443",
+    "status": "success",
+    "file": "assets_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://chatbot.airtel.in:443",
+    "used_url": "https://chatbot.airtel.in:443",
+    "status": "success",
+    "file": "chatbot_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://airtelcms.airtel.in:443",
+    "used_url": "https://airtelcms.airtel.in:443",
+    "status": "success",
+    "file": "airtelcms_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://buyer-uat.airtel.in:443",
+    "used_url": "https://buyer-uat.airtel.in:443",
+    "status": "success",
+    "file": "buyer_uat_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://buyer.airtel.in:443",
+    "used_url": "https://buyer.airtel.in:443",
+    "status": "success",
+    "file": "buyer_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://blogassets.airtel.in:443",
+    "used_url": "https://blogassets.airtel.in:443",
+    "status": "success",
+    "file": "blogassets_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://cm.airtel.in:443",
+    "used_url": "https://cm.airtel.in:443",
+    "status": "success",
+    "file": "cm_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://alpha.airtel.in:443",
+    "used_url": "https://alpha.airtel.in:443",
+    "status": "success",
+    "file": "alpha_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://brandstories.airtel.in:443",
+    "used_url": "https://brandstories.airtel.in:443",
+    "status": "success",
+    "file": "brandstories_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://airtel-advantage.airtel.in:443",
+    "used_url": "https://airtel-advantage.airtel.in:443",
+    "status": "success",
+    "file": "airtel_advantage_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://ddos-pr.airtelsecure.airtel.in:443",
+    "used_url": "https://ddos-pr.airtelsecure.airtel.in:443",
+    "status": "success",
+    "file": "ddos_pr_airtelsecure_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://digi-api.airtel.in:443",
+    "used_url": "https://digi-api.airtel.in:443",
+    "status": "success",
+    "file": "digi_api_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://digianalytics.airtel.in:443",
+    "used_url": "https://digianalytics.airtel.in:443",
+    "status": "success",
+    "file": "digianalytics_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://digimate.airtel.in:443",
+    "used_url": "https://digimate.airtel.in:443",
+    "status": "success",
+    "file": "digimate_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://cdn.smartapi.airtel.in:443",
+    "used_url": "https://cdn.smartapi.airtel.in:443",
+    "status": "success",
+    "file": "cdn_smartapi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "http://bankingpoint.airtel.in:80",
+    "used_url": "http://bankingpoint.airtel.in:80",
+    "status": "success",
+    "file": "bankingpoint_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://dashboard.airtel-advantage.airtel.in:443",
+    "used_url": "https://dashboard.airtel-advantage.airtel.in:443",
+    "status": "success",
+    "file": "dashboard_airtel_advantage_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://eft.airtel.in:443",
+    "used_url": "https://eft.airtel.in:443",
+    "status": "success",
+    "file": "eft_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://digi-api1.airtel.in:443",
+    "used_url": "https://digi-api1.airtel.in:443",
+    "status": "success",
+    "file": "digi_api1_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://dltconnect.airtel.in:443",
+    "used_url": "https://dltconnect.airtel.in:443",
+    "status": "success",
+    "file": "dltconnect_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://al.airtel.in:443",
+    "used_url": "https://al.airtel.in:443",
+    "status": "success",
+    "file": "al_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://enterprisengin.airtel.in:443",
+    "used_url": "https://enterprisengin.airtel.in:443",
+    "status": "success",
+    "file": "enterprisengin_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://developers.airtel.in:443",
+    "used_url": "https://developers.airtel.in:443",
+    "status": "success",
+    "file": "developers_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://es.airtel.in:443",
+    "used_url": "https://es.airtel.in:443",
+    "status": "success",
+    "file": "es_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://esbapi.airtel.in:443",
+    "used_url": "https://esbapi.airtel.in:443",
+    "status": "success",
+    "file": "esbapi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://esb.airtel.in:443",
+    "used_url": "https://esb.airtel.in:443",
+    "status": "success",
+    "file": "esb_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://b2bblogassets.airtel.in:443",
+    "used_url": "https://b2bblogassets.airtel.in:443",
+    "status": "success",
+    "file": "b2bblogassets_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://esbint.airtel.in:443",
+    "used_url": "https://esbint.airtel.in:443",
+    "status": "success",
+    "file": "esbint_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://dlt.airtel.in:443",
+    "used_url": "https://dlt.airtel.in:443",
+    "status": "success",
+    "file": "dlt_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://erpsitdmz.airtel.in:443",
+    "used_url": "https://erpsitdmz.airtel.in:443",
+    "status": "success",
+    "file": "erpsitdmz_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://erpdmz.airtel.in:443",
+    "used_url": "http://erpdmz.airtel.in:443",
+    "status": "success",
+    "file": "erpdmz_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://digivoice.airtel.in:443",
+    "used_url": "https://digivoice.airtel.in:443",
+    "status": "success",
+    "file": "digivoice_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://es1.airtel.in:443",
+    "used_url": "https://es1.airtel.in:443",
+    "status": "success",
+    "file": "es1_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "http://airteluc2.airtel.in:80",
+    "used_url": "http://airteluc2.airtel.in:80",
+    "status": "success",
+    "file": "airteluc2_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://iqbot-webhook.airtel.in:443",
+    "used_url": "https://iqbot-webhook.airtel.in:443",
+    "status": "success",
+    "file": "iqbot_webhook_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://iotm2m.airtel.in:443",
+    "used_url": "https://iotm2m.airtel.in:443",
+    "status": "success",
+    "file": "iotm2m_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://iqsmsorc.airtel.in:443",
+    "used_url": "https://iqsmsorc.airtel.in:443",
+    "status": "success",
+    "file": "iqsmsorc_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://i.airtel.in:443",
+    "used_url": "https://i.airtel.in:443",
+    "status": "success",
+    "file": "i_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://enterprise.airtel.in:443",
+    "used_url": "https://enterprise.airtel.in:443",
+    "status": "success",
+    "file": "enterprise_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://lg.airtel.in:443",
+    "used_url": "https://lg.airtel.in:443",
+    "status": "success",
+    "file": "lg_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://m.airtel.in:443",
+    "used_url": "https://m.airtel.in:443",
+    "status": "success",
+    "file": "m_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://mrevenue.airtel.in:443",
+    "used_url": "https://mrevenue.airtel.in:443",
+    "status": "fail",
+    "file": "",
+    "error": "Page.screenshot: Timeout 30000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n"
+  },
+  {
+    "input": "https://iqmessaging.airtel.in:443",
+    "used_url": "https://iqmessaging.airtel.in:443",
+    "status": "success",
+    "file": "iqmessaging_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://mumbaispeedtest2.airtel.in:443",
+    "used_url": "https://mumbaispeedtest2.airtel.in:443",
+    "status": "success",
+    "file": "mumbaispeedtest2_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://nps.airtel.in:443",
+    "used_url": "https://nps.airtel.in:443",
+    "status": "success",
+    "file": "nps_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://mumbaispeedtest1.airtel.in:443",
+    "used_url": "https://mumbaispeedtest1.airtel.in:443",
+    "status": "success",
+    "file": "mumbaispeedtest1_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://north-auth.cloud.airtel.in:443",
+    "used_url": "https://north-auth.cloud.airtel.in:443",
+    "status": "success",
+    "file": "north_auth_cloud_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://openapi.airtel.in:443",
+    "used_url": "https://openapi.airtel.in:443",
+    "status": "success",
+    "file": "openapi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://openapifiles.airtel.in:443",
+    "used_url": "https://openapifiles.airtel.in:443",
+    "status": "success",
+    "file": "openapifiles_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://partners.airtel.in:443",
+    "used_url": "https://partners.airtel.in:443",
+    "status": "success",
+    "file": "partners_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://partners-uat.airtel.in:443",
+    "used_url": "https://partners-uat.airtel.in:443",
+    "status": "success",
+    "file": "partners_uat_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://revenue.airtel.in:443",
+    "used_url": "https://revenue.airtel.in:443",
+    "status": "success",
+    "file": "revenue_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://psatest.airtel.in:443",
+    "used_url": "https://psatest.airtel.in:443",
+    "status": "success",
+    "file": "psatest_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://securitybugs.airtel.in:443",
+    "used_url": "https://securitybugs.airtel.in:443",
+    "status": "success",
+    "file": "securitybugs_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://portal.dashboard.airtel-advantage.airtel.in:443",
+    "used_url": "https://portal.dashboard.airtel-advantage.airtel.in:443",
+    "status": "success",
+    "file": "portal_dashboard_airtel_advantage_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://sentry.airtel.in:443",
+    "used_url": "https://sentry.airtel.in:443",
+    "status": "success",
+    "file": "sentry_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://opennetwork.airtel.in:443",
+    "used_url": "https://opennetwork.airtel.in:443",
+    "status": "success",
+    "file": "opennetwork_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://smdp.airtel.in:443",
+    "used_url": "https://smdp.airtel.in:443",
+    "status": "success",
+    "file": "smdp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://telemediacpportal.airtel.in:443",
+    "used_url": "https://telemediacpportal.airtel.in:443",
+    "status": "success",
+    "file": "telemediacpportal_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://tracemateplus.airtel.in:443",
+    "used_url": "https://tracemateplus.airtel.in:443",
+    "status": "success",
+    "file": "tracemateplus_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedban1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedban1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedban1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedbbs1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedbbs1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedbbs1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedbha1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedbha1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedbha1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedchn1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedchn1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedchn1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://speedtestggn1.airtel.in:443",
+    "used_url": "https://speedtestggn1.airtel.in:443",
+    "status": "success",
+    "file": "speedtestggn1_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://paydigi.airtel.in:443",
+    "used_url": "https://paydigi.airtel.in:443",
+    "status": "success",
+    "file": "paydigi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedchndc1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedchndc1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedchndc1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedcgr1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedcgr1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedcgr1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedchv1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedchv1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedchv1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedjai1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedjai1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedjai1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedgov1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedgov1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedgov1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedjbl1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedjbl1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedjbl1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://speedtestmum1.airtel.in:443",
+    "used_url": "https://speedtestmum1.airtel.in:443",
+    "status": "success",
+    "file": "speedtestmum1_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedjor1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedjor1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedjor1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedkrd1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedkrd1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedkrd1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedjpr1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedjpr1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedjpr1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedkgp1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedkgp1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedkgp1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedkol1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedkol1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedkol1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedlud1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedlud1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedlud1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedplc1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedplc1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedplc1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedngp1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedngp1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedngp1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedmrt1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedmrt1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedmrt1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedmoh1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedmoh1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedmoh1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedptn1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedptn1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedptn1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedrch1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedrch1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedrch1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedsan1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedsan1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedsan1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedrai1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedrai1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedrai1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedrkt1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedrkt1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedrkt1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedwfd1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedwfd1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedwfd1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedupl1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedupl1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedupl1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedsaha1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedsaha1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedsaha1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedsur1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedsur1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedsur1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedtar1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedtar1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedtar1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedvjw1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedvjw1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedvjw1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://u.airtel.in:443",
+    "used_url": "https://u.airtel.in:443",
+    "status": "success",
+    "file": "u_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedgmt1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedgmt1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedgmt1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedjdh1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedjdh1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedjdh1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.airtel.in:443",
+    "used_url": "https://www.airtel.in:443",
+    "status": "success",
+    "file": "www_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedman1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedman1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedman1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "http://nullcon-securitybugs.airtel.in:80",
+    "used_url": "http://nullcon-securitybugs.airtel.in:80",
+    "status": "fail",
+    "file": "",
+    "error": "Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://nullcon-securitybugs.airtel.in:80/\nCall log:\n  - navigating to \"https://nullcon-securitybugs.airtel.in:80/\", waiting until \"load\"\n"
+  },
+  {
+    "input": "https://s.rawat@airtel.in:443",
+    "used_url": "https://s.rawat@airtel.in:443",
+    "status": "success",
+    "file": "airtel_in_156419.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.digimate.airtel.in:443",
+    "used_url": "https://www.digimate.airtel.in:443",
+    "status": "success",
+    "file": "www_digimate_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedap1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedap1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedap1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "http://scansuite.airtel.in:80",
+    "used_url": "http://scansuite.airtel.in:80",
+    "status": "fail",
+    "file": "",
+    "error": "Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://scansuite.airtel.in:80/\nCall log:\n  - navigating to \"https://scansuite.airtel.in:80/\", waiting until \"load\"\n"
+  },
+  {
+    "input": "http://speedtestchd1.airtel.in:80",
+    "used_url": "http://speedtestchd1.airtel.in:80",
+    "status": "fail",
+    "file": "",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://speedtestchd1.airtel.in:80/\nCall log:\n  - navigating to \"https://speedtestchd1.airtel.in:80/\", waiting until \"load\"\n"
+  },
+  {
+    "input": "https://www.lg.airtel.in:443",
+    "used_url": "https://www.lg.airtel.in:443",
+    "status": "success",
+    "file": "www_lg_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.openapi.airtel.in:443",
+    "used_url": "https://www.openapi.airtel.in:443",
+    "status": "success",
+    "file": "www_openapi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.iqsmsorc.airtel.in:443",
+    "used_url": "https://www.iqsmsorc.airtel.in:443",
+    "status": "success",
+    "file": "www_iqsmsorc_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.digivoice.airtel.in:443",
+    "used_url": "https://www.digivoice.airtel.in:443",
+    "status": "success",
+    "file": "www_digivoice_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://traispeedmum1.myspeed.tsp.airtel.in:443",
+    "used_url": "https://traispeedmum1.myspeed.tsp.airtel.in:443",
+    "status": "success",
+    "file": "traispeedmum1_myspeed_tsp_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://www.tracemateplus.airtel.in:443",
+    "used_url": "https://www.tracemateplus.airtel.in:443",
+    "status": "success",
+    "file": "www_tracemateplus_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://zapi.airtel.in:443",
+    "used_url": "https://zapi.airtel.in:443",
+    "status": "success",
+    "file": "zapi_airtel_in.png",
+    "error": ""
+  },
+  {
+    "input": "https://xsafeassets.airtel.in:443",
+    "used_url": "https://xsafeassets.airtel.in:443",
+    "status": "success",
+    "file": "xsafeassets_airtel_in.png",
+    "error": ""
+  }
+]

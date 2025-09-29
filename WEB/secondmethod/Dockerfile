@@ -1,16 +1,14 @@
-# Dockerfile
-FROM mcr.microsoft.com/playwright/python:v1.47.0-jammy
+FROM mcr.microsoft.com/playwright/python:v1.48.0-jammy
 
 WORKDIR /app
 
-# copy requirements (minimal)
-COPY <<EOF requirements.txt
-playwright
-EOF
+# copy your code into container
+COPY snapworker.py /app/
 
-RUN pip install -r requirements.txt && playwright install --with-deps chromium
+# install playwright python bindings
+RUN pip install --no-cache-dir playwright
 
-# small worker script
-COPY snapworker.py /app/snapworker.py
+# (optional) install browsers inside image, but base image usually includes them
+RUN playwright install --with-deps chromium
 
-ENTRYPOINT ["python3", "/app/snapworker.py"]
+CMD ["python", "snapworker.py"]

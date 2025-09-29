@@ -1,0 +1,43 @@
+[*] Brand-only detected: expanding to domains: airtel.in
+airtel.com
+airtel.net
+airtel.org
+airtel.co
+airtel.xyz
+airtel.top
+airtel.site
+airtel.online
+airtel.biz
+airtel.info
+[*] Tools check...
+[*] 1) Collect Certificate Transparency domains (crt.sh) for each target domain...
+  - crt.sh for airtel.in
+  - crt.sh for airtel.com
+  - crt.sh for airtel.net
+  - crt.sh for airtel.org
+  - crt.sh for airtel.co
+  - crt.sh for airtel.xyz
+  - crt.sh for airtel.top
+  - crt.sh for airtel.site
+  - crt.sh for airtel.online
+  - crt.sh for airtel.biz
+  - crt.sh for airtel.info
+[+] crt.sh domains (combined): 1037
+[*] 2) Collect historical URLs from public crawls (gau) for each target domain...
+  - gau for airtel.in
+  - gau for airtel.com
+  - gau for airtel.net
+  - gau for airtel.org
+  - gau for airtel.co
+  - gau for airtel.xyz
+  - gau for airtel.top
+  - gau for airtel.site
+  - gau for airtel.online
+  - gau for airtel.biz
+  - gau for airtel.info
+[+] gau hostnames (combined): 459
+[*] 3) Optional: Run dnstwist (registered-only) using tokens if provided...
+[*] Skipping dnstwist (no tokens provided)
+[*] 4) Combine candidate hostnames (dedup)
+[+] total distinct candidates: 1244
+[*] 5) Probe candidates (httpx) - status & title
